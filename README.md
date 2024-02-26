@@ -1,7 +1,7 @@
 # Personal-Projects-
 This repository will contain the code of my personal project. 
 
-The kibble dispenser:
+I) The kibble dispenser:
   This is a project where I create a kibble dispenser for my cat. 
   All I needed:
     _  Arduino Uno
